@@ -1,3 +1,4 @@
+#Simone Frazier CIS261 DECKofCARDS LAB
 import random
 
 class Card:
